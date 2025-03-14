@@ -1,0 +1,132 @@
+
+/* Class = "UINavigationItem"; title = "Create/Edit Alarm"; ObjectID = "6EI-eF-Q5j"; */
+"6EI-eF-Q5j.title" = "Create/Edit Alarm";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "9wr-i3-hkV"; */
+"9wr-i3-hkV.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Alarm set for 6:00 AM"; ObjectID = "9z1-jX-2MJ"; */
+"9z1-jX-2MJ.text" = "Alarm set for 6:00 AM";
+
+/* Class = "UILabel"; text = "Welcome!"; ObjectID = "AH5-uc-wXS"; */
+"AH5-uc-wXS.text" = "Welcome!";
+
+/* Class = "UIButton"; configuration.title = "Log In"; ObjectID = "B02-1N-z8P"; */
+"B02-1N-z8P.configuration.title" = "Log In";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "B02-1N-z8P"; */
+"B02-1N-z8P.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Try Again"; ObjectID = "DPC-D0-0SU"; */
+"DPC-D0-0SU.configuration.title" = "Try Again";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DPC-D0-0SU"; */
+"DPC-D0-0SU.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Exg-Hu-GTL"; */
+"Exg-Hu-GTL.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Waiting on Google Vision..."; ObjectID = "GAn-Bv-Pzw"; */
+"GAn-Bv-Pzw.text" = "Waiting on Google Vision...";
+
+/* Class = "UIButton"; configuration.title = "Create Account"; ObjectID = "JAt-AO-3MH"; */
+"JAt-AO-3MH.configuration.title" = "Create Account";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JAt-AO-3MH"; */
+"JAt-AO-3MH.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Back to Login"; ObjectID = "KVK-8f-ffa"; */
+"KVK-8f-ffa.configuration.title" = "Back to Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KVK-8f-ffa"; */
+"KVK-8f-ffa.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Create an account!"; ObjectID = "Lje-Fe-DaF"; */
+"Lje-Fe-DaF.text" = "Create an account!";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Mvf-v8-lxR"; */
+"Mvf-v8-lxR.text" = "Title";
+
+/* Class = "UITextField"; placeholder = "Re-type password"; ObjectID = "NTH-L6-nPu"; */
+"NTH-L6-nPu.placeholder" = "Re-type password";
+
+/* Class = "UILabel"; text = "Take a picture of..."; ObjectID = "Q3V-9r-MgQ"; */
+"Q3V-9r-MgQ.text" = "Take a picture of...";
+
+/* Class = "UIViewController"; title = "Alarms"; ObjectID = "UWw-s7-HD3"; */
+"UWw-s7-HD3.title" = "Alarms";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Ugd-4N-epd"; */
+"Ugd-4N-epd.text" = "Title";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "W7x-Ft-6Bd"; */
+"W7x-Ft-6Bd.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "Sound Options"; ObjectID = "aOl-Jj-rwu"; */
+"aOl-Jj-rwu.title" = "Sound Options";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "amO-co-i9e"; */
+"amO-co-i9e.title" = "Save";
+
+/* Class = "UITextField"; placeholder = "Create password"; ObjectID = "b32-s4-4eZ"; */
+"b32-s4-4eZ.placeholder" = "Create password";
+
+/* Class = "UIButton"; configuration.title = "Sign Up"; ObjectID = "bvC-lr-I4K"; */
+"bvC-lr-I4K.configuration.title" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bvC-lr-I4K"; */
+"bvC-lr-I4K.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "cOi-do-Yls"; */
+"cOi-do-Yls.text" = "Subtitle";
+
+/* Class = "UITextField"; placeholder = "Enter email"; ObjectID = "ckC-hf-FoR"; */
+"ckC-hf-FoR.placeholder" = "Enter email";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "dW3-OW-gZX"; */
+"dW3-OW-gZX.title" = "Settings";
+
+/* Class = "UINavigationItem"; title = "Photo Options"; ObjectID = "dmr-L8-Kdj"; */
+"dmr-L8-Kdj.title" = "Photo Options";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "fYQ-WG-vab"; */
+"fYQ-WG-vab.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Get up boi"; ObjectID = "fcC-qh-PQO"; */
+"fcC-qh-PQO.text" = "Get up boi";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "g3h-w8-aw5"; */
+"g3h-w8-aw5.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Take Picture"; ObjectID = "k7O-qP-O2T"; */
+"k7O-qP-O2T.configuration.title" = "Take Picture";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "k7O-qP-O2T"; */
+"k7O-qP-O2T.normalTitle" = "Button";
+
+/* Class = "UIViewController"; title = "Repeat Options"; ObjectID = "mkz-V4-9uu"; */
+"mkz-V4-9uu.title" = "Repeat Options";
+
+/* Class = "UITextField"; placeholder = "Name your alarm here!"; ObjectID = "n77-Q5-FUa"; */
+"n77-Q5-FUa.placeholder" = "Name your alarm here!";
+
+/* Class = "UILabel"; text = "Alarm Name"; ObjectID = "nKE-Ud-ZxE"; */
+"nKE-Ud-ZxE.text" = "Alarm Name";
+
+/* Class = "UIButton"; configuration.title = "Submit"; ObjectID = "sfp-El-Vob"; */
+"sfp-El-Vob.configuration.title" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sfp-El-Vob"; */
+"sfp-El-Vob.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Log Out"; ObjectID = "uIp-gO-PhY"; */
+"uIp-gO-PhY.configuration.title" = "Log Out";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uIp-gO-PhY"; */
+"uIp-gO-PhY.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Alarms"; ObjectID = "vpv-1D-NtX"; */
+"vpv-1D-NtX.title" = "Alarms";
+
+/* Class = "UILabel"; text = "Please log in or sign up:"; ObjectID = "zr4-JB-iXF"; */
+"zr4-JB-iXF.text" = "Please log in or sign up:";
